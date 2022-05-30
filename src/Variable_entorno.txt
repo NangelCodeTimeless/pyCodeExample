@@ -1,0 +1,39 @@
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Control\Session Manager\Environment
+VARIABLES DE USUARIO
+--------------------
+C:\Program Files\MySQL\MySQL Shell 8.0\bin\;
+C:\Users\Nahum\AppData\Local\Programs\Microsoft VS Code\bin;
+C:\Users\Nahum\AppData\Local\Yarn\bin;
+C:\Users\Nahum\AppData\Roaming\npm;
+C:\Program Files\Bandizip\;
+%DASHLANE_DLL_DIR%
+
+
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Session Manager\Environment
+VARIABLES DE SISTEMA
+--------------------
+%CommonProgramFiles%\Microsoft Shared\Windows Live;
+%systemroot%\System32\WindowsPowerShell\v1.0\;
+%SystemRoot%\system32;
+
+C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;
+C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;
+C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;
+C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;
+C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;
+C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;
+C:\Program Files (x86)\Common Files\Oracle\Java\javapath;
+C:\Program Files\dotnet\;
+
+C:\Program Files\MySQL\MySQL Server 8.0\bin;
+C:\Program Files\Python37;
+C:\Program Files\Python37\Scripts;
+C:\Program Files (x86)\Yarn\bin\;
+C:\ServerWebApache\php72;
+C:\Program Files\nodejs\;
+C:\masm32\bin;
+C:\composer;
+C:\tomcat-9.0.37\bin;
+C:\maven-3.6.2\bin;
+C:\Program Files\Git\cmd
+%JAVA_HOME%\bin;
